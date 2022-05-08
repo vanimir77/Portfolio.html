@@ -1,0 +1,70 @@
+body{margin: 0;
+padding: 0;
+background-image:url(./foto/fondo.jpg);
+list-style-type: none;}
+
+.encabezado{
+    font-family: Arial, Helvetica, sans-serif ;
+    background-color: #32533D;
+    height: 130px;
+    margin-left: 1%;
+    margin-right: 1%;
+    color: beige ;}
+
+.nombre{font-size: 30px;
+        margin-left: 54%;
+        padding: 02%;}
+
+.contacto{ margin-left: 50%;}
+ 
+.img{margin-top: -8.5em ;
+     margin-left: 0.5em;}
+
+.contenido{font-family: Arial, Helvetica, sans-serif;
+color: #055441;}
+
+.seccion1{
+    padding: 2%;
+    text-align: center;
+    margin-bottom: 2%;
+    margin-top: 2%; 
+    background-color: rgb(236, 185, 167);
+    height: 130px;
+    margin-left: 4%;
+    margin-right: 4%;}
+    
+.educ{margin-top: 0.5rem;}
+
+.p1{line-height: 1em;
+margin-top: 2em;}
+    
+.seccion2{
+    padding: 2%;
+    text-align: center;
+    margin-bottom: 2%;
+    background-color: #5fa79b;
+    height: 130px;
+    margin-left: 4%;
+    margin-right: 4%;}
+
+.exp{margin-top: 0.5rem;}
+
+.seccion3{
+    padding: 2%;
+    text-align: center;
+    margin-bottom: 2%;
+    background-color: rgb(168, 144, 144);
+    height: 130px;
+    margin-left: 4%;
+    margin-right: 4%;}
+
+.seccion4{
+    padding: 2%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #055441;
+    margin-left: 4%;
+    margin-right: 60%;
+    background-color: rgb(218, 170, 112);}
+
+.hab{margin-top: 0.5rem;}
